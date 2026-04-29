@@ -166,6 +166,6 @@ POST /predict
 
 # 🎓 Guidance
 
-Under the guidance of **Mr.Sunil Kumar Sawant**.
+Under the guidance of **Mr. Sunil Kumar Sawant**, **KIIT University, Bhubaneswar**
 
 ---
