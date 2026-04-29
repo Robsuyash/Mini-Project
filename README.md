@@ -12,8 +12,6 @@ The system combines:
 * **Deep Learning (CNN)** for face detection and recognition
 * **Frontend** for image upload and result display
 * **Backend API** for processing requests and connecting with the ML model
-* **Database (Optional)** for storing users or detection logs
-
 ---
 
 # 🚀 Features
@@ -36,25 +34,19 @@ The system combines:
 * HTML
 * CSS
 * JavaScript
-* React (Optional)
+* React
 * Bootstrap/Tailwind CSS
 
 ## Backend
 
 * Python
-* Flask / FastAPI / Django
+* Flask / FastAPI
 * REST API
 
 ## Machine Learning
 
 * TensorFlow
 * CNN (Convolutional Neural Network)
-* DeepFace Library (Optional)
-
-## Database (Optional)
-
-* MySQL
-* MongoDB
 
 ---
 
@@ -168,12 +160,12 @@ POST /predict
 | Purvi Maheshwari    |
 | Mihika Puri         |
 | Kanhaiya Kumar      |
-| Raanav Kumar Mishra |
+| Raanu Kumar Mishra |
 
 ---
 
 # 🎓 Guidance
 
-Under the guidance of **Sunil Kumar Sawant**.
+Under the guidance of **Mr.Sunil Kumar Sawant**.
 
 ---
